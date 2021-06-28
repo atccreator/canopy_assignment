@@ -1,0 +1,4 @@
+tk
+camelot-py[cv]
+matplotlib
+numpy
